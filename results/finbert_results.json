@@ -1,0 +1,87 @@
+{
+  "task": "binary",
+  "model": "ProsusAI/finbert",
+  "input": "management_text",
+  "max_seq_len": 512,
+  "epochs_outer": 10,
+  "epochs_inner": 1,
+  "lr_candidates": [
+    1e-05,
+    2e-05,
+    3e-05,
+    5e-05
+  ],
+  "f1_macro": 0.43473094551010016,
+  "accuracy": 0.5888888888888889,
+  "auc_roc": 0.4892241379310345,
+  "cohen_kappa": -0.05180037902716372,
+  "report": {
+    "DOWN": {
+      "precision": 0.2727272727272727,
+      "recall": 0.09375,
+      "f1-score": 0.13953488372093023,
+      "support": 32.0
+    },
+    "UP": {
+      "precision": 0.6329113924050633,
+      "recall": 0.8620689655172413,
+      "f1-score": 0.7299270072992701,
+      "support": 58.0
+    },
+    "accuracy": 0.5888888888888889,
+    "macro avg": {
+      "precision": 0.452819332566168,
+      "recall": 0.47790948275862066,
+      "f1-score": 0.43473094551010016,
+      "support": 90.0
+    },
+    "weighted avg": {
+      "precision": 0.5048459276307378,
+      "recall": 0.5888888888888889,
+      "f1-score": 0.5200098078047493,
+      "support": 90.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      3,
+      29
+    ],
+    [
+      8,
+      50
+    ]
+  ],
+  "fold_results": [
+    {
+      "fold": 0,
+      "f1_macro": 0.3793103448275862,
+      "accuracy": 0.6111111111111112,
+      "best_lr": 1e-05
+    },
+    {
+      "fold": 1,
+      "f1_macro": 0.35714285714285715,
+      "accuracy": 0.5555555555555556,
+      "best_lr": 1e-05
+    },
+    {
+      "fold": 2,
+      "f1_macro": 0.5178571428571428,
+      "accuracy": 0.6666666666666666,
+      "best_lr": 2e-05
+    },
+    {
+      "fold": 3,
+      "f1_macro": 0.41558441558441556,
+      "accuracy": 0.4444444444444444,
+      "best_lr": 2e-05
+    },
+    {
+      "fold": 4,
+      "f1_macro": 0.4,
+      "accuracy": 0.6666666666666666,
+      "best_lr": 1e-05
+    }
+  ]
+}

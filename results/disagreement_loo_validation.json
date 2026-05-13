@@ -1,0 +1,199 @@
+{
+  "binary": {
+    "n_total": 100,
+    "n_disagreements": 9,
+    "loo_accuracy": 0.8888888888888888,
+    "zero_baseline_accuracy": 0.8888888888888888,
+    "cot_baseline_accuracy": 0.1111111111111111,
+    "validated_rule": "GPT-zero",
+    "rule_stability": 1.0,
+    "loo_details": [
+      {
+        "symbol": "ABNB",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "JPM",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "LIN",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "DOWN",
+        "loo_correct": false
+      },
+      {
+        "symbol": "META",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "MO",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "MRK",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "PLD",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "TJX",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "UNP",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "DOWN",
+        "loo_correct": true
+      }
+    ]
+  },
+  "ternary": {
+    "n_total": 100,
+    "n_disagreements": 16,
+    "loo_accuracy": 0.625,
+    "zero_baseline_accuracy": 0.625,
+    "cot_baseline_accuracy": 0.125,
+    "validated_rule": "GPT-zero",
+    "rule_stability": 1.0,
+    "loo_details": [
+      {
+        "symbol": "AMT",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "BA",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "CEG",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "COF",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "DE",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "UP",
+        "loo_correct": false
+      },
+      {
+        "symbol": "DUK",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "ECL",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "INTC",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "DOWN",
+        "loo_correct": true
+      },
+      {
+        "symbol": "LOW",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "MAR",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "UP",
+        "loo_correct": false
+      },
+      {
+        "symbol": "PG",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "DOWN",
+        "loo_correct": true
+      },
+      {
+        "symbol": "SRE",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "FLAT",
+        "loo_correct": false
+      },
+      {
+        "symbol": "TSLA",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "DOWN",
+        "true_label": "UP",
+        "loo_correct": false
+      },
+      {
+        "symbol": "TXN",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "UP",
+        "loo_correct": true
+      },
+      {
+        "symbol": "WFC",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "DOWN",
+        "loo_correct": false
+      },
+      {
+        "symbol": "XOM",
+        "loo_rule": "GPT-zero",
+        "loo_pred": "UP",
+        "true_label": "FLAT",
+        "loo_correct": false
+      }
+    ]
+  }
+}

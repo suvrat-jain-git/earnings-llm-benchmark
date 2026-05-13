@@ -1,0 +1,49 @@
+{
+  "binary": {
+    "n_total": 90,
+    "n_agree": 81,
+    "n_disagree": 9,
+    "disagree_rate": 0.1,
+    "f1_agree_subset": 0.5944,
+    "f1_disagree_gpt_zero": 0.8,
+    "f1_disagree_gpt_cot": 0.1,
+    "disagree_symbols": [
+      "META",
+      "LIN",
+      "ABNB",
+      "PLD",
+      "TJX",
+      "MO",
+      "UNP",
+      "JPM",
+      "MRK"
+    ]
+  },
+  "ternary": {
+    "n_total": 100,
+    "n_agree": 84,
+    "n_disagree": 16,
+    "disagree_rate": 0.16,
+    "f1_agree_subset": 0.3287,
+    "f1_disagree_gpt_zero": 0.4091,
+    "f1_disagree_gpt_cot": 0.0741,
+    "disagree_symbols": [
+      "LOW",
+      "INTC",
+      "XOM",
+      "COF",
+      "PG",
+      "ECL",
+      "DE",
+      "BA",
+      "MAR",
+      "AMT",
+      "DUK",
+      "TXN",
+      "CEG",
+      "SRE",
+      "TSLA",
+      "WFC"
+    ]
+  }
+}

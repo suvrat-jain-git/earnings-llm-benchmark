@@ -1,0 +1,3762 @@
+{
+  "binary": {
+    "per_sector": [
+      {
+        "experiment": "GPT-zero",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.8461538461538461
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.6875
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.6
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.4444444444444444
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.7692307692307693
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.6
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.4444444444444444
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.8461538461538461
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.6875
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5714285714285714
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 8,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.7692307692307693
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.8333333333333334
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.6153846153846154
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.5833333333333334
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.8125
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.4
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.4444444444444444
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.7692307692307693
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 1.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.5555555555555556
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.46153846153846156
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.3125
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.4
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Discretionary",
+        "n_samples": 9,
+        "n_valid": 9,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Staples",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Energy",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Financials",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.8461538461538461
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Health Care",
+        "n_samples": 12,
+        "n_valid": 12,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.6875
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Materials",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.6
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Real Estate",
+        "n_samples": 5,
+        "n_valid": 5,
+        "accuracy": 0.8
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Utilities",
+        "n_samples": 3,
+        "n_valid": 3,
+        "accuracy": 1.0
+      }
+    ],
+    "sector_fisher": [
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 6,
+        "accuracy": 0.4286,
+        "n_others": 76,
+        "acc_others": 0.6842,
+        "fisher_p": 0.077127,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 5,
+        "accuracy": 1.0,
+        "n_others": 85,
+        "acc_others": 0.6235,
+        "fisher_p": 0.156298,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 4,
+        "accuracy": 0.4444,
+        "n_others": 81,
+        "acc_others": 0.6667,
+        "fisher_p": 0.271273,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 10,
+        "accuracy": 0.7692,
+        "n_others": 77,
+        "acc_others": 0.6234,
+        "fisher_p": 0.366309,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6322,
+        "fisher_p": 0.549745,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6353,
+        "fisher_p": 0.651767,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 84,
+        "acc_others": 0.6548,
+        "fisher_p": 0.662009,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 8,
+        "accuracy": 0.6667,
+        "n_others": 78,
+        "acc_others": 0.641,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 74,
+        "acc_others": 0.6486,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 87,
+        "acc_others": 0.6437,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 86,
+        "acc_others": 0.6395,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 76,
+        "acc_others": 0.7368,
+        "fisher_p": 0.110716,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 11,
+        "accuracy": 0.8462,
+        "n_others": 77,
+        "acc_others": 0.6753,
+        "fisher_p": 0.329519,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6897,
+        "fisher_p": 0.551149,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 3,
+        "accuracy": 0.6,
+        "n_others": 85,
+        "acc_others": 0.7059,
+        "fisher_p": 0.634056,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 9,
+        "accuracy": 0.75,
+        "n_others": 78,
+        "acc_others": 0.6923,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 6,
+        "accuracy": 0.6667,
+        "n_others": 81,
+        "acc_others": 0.7037,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6941,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 11,
+        "accuracy": 0.6875,
+        "n_others": 74,
+        "acc_others": 0.7027,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 87,
+        "acc_others": 0.7011,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 4,
+        "accuracy": 0.6667,
+        "n_others": 84,
+        "acc_others": 0.7024,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 86,
+        "acc_others": 0.6977,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 75,
+        "acc_others": 0.7333,
+        "fisher_p": 0.112959,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 5,
+        "accuracy": 1.0,
+        "n_others": 84,
+        "acc_others": 0.6786,
+        "fisher_p": 0.317315,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 10,
+        "accuracy": 0.8333,
+        "n_others": 77,
+        "acc_others": 0.6753,
+        "fisher_p": 0.332797,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 83,
+        "acc_others": 0.7108,
+        "fisher_p": 0.362388,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 86,
+        "acc_others": 0.686,
+        "fisher_p": 0.550412,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 73,
+        "acc_others": 0.7123,
+        "fisher_p": 0.552739,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Discretionary",
+        "n_sector": 8,
+        "n_correct": 5,
+        "accuracy": 0.625,
+        "n_others": 81,
+        "acc_others": 0.7037,
+        "fisher_p": 0.694478,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 10,
+        "accuracy": 0.7692,
+        "n_others": 76,
+        "acc_others": 0.6842,
+        "fisher_p": 0.74678,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 86,
+        "acc_others": 0.6977,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 84,
+        "acc_others": 0.6905,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 85,
+        "acc_others": 0.6941,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 4,
+        "accuracy": 0.4444,
+        "n_others": 81,
+        "acc_others": 0.6914,
+        "fisher_p": 0.153715,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 11,
+        "accuracy": 0.8462,
+        "n_others": 77,
+        "acc_others": 0.6364,
+        "fisher_p": 0.205804,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 1,
+        "accuracy": 0.3333,
+        "n_others": 87,
+        "acc_others": 0.6782,
+        "fisher_p": 0.256725,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 84,
+        "acc_others": 0.6786,
+        "fisher_p": 0.396149,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 8,
+        "accuracy": 0.5714,
+        "n_others": 76,
+        "acc_others": 0.6842,
+        "fisher_p": 0.53833,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6552,
+        "fisher_p": 0.548008,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.6744,
+        "fisher_p": 0.598229,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6588,
+        "fisher_p": 0.661298,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6588,
+        "fisher_p": 0.661298,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 9,
+        "accuracy": 0.75,
+        "n_others": 78,
+        "acc_others": 0.6538,
+        "fisher_p": 0.743996,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 11,
+        "accuracy": 0.6875,
+        "n_others": 74,
+        "acc_others": 0.6622,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 4,
+        "accuracy": 1.0,
+        "n_others": 86,
+        "acc_others": 0.407,
+        "fisher_p": 0.03219,
+        "significant": true,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.4118,
+        "fisher_p": 0.161996,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 84,
+        "acc_others": 0.4524,
+        "fisher_p": 0.22847,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 87,
+        "acc_others": 0.4483,
+        "fisher_p": 0.255056,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 5,
+        "accuracy": 0.3125,
+        "n_others": 74,
+        "acc_others": 0.4595,
+        "fisher_p": 0.405319,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 5,
+        "accuracy": 0.5556,
+        "n_others": 81,
+        "acc_others": 0.4198,
+        "fisher_p": 0.493381,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 4,
+        "accuracy": 0.3333,
+        "n_others": 78,
+        "acc_others": 0.4487,
+        "fisher_p": 0.542105,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 76,
+        "acc_others": 0.4211,
+        "fisher_p": 0.770151,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 2,
+        "accuracy": 0.4,
+        "n_others": 85,
+        "acc_others": 0.4353,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 6,
+        "accuracy": 0.4615,
+        "n_others": 77,
+        "acc_others": 0.4286,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 1,
+        "accuracy": 0.3333,
+        "n_others": 87,
+        "acc_others": 0.4368,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 5,
+        "accuracy": 1.0,
+        "n_others": 85,
+        "acc_others": 0.6471,
+        "fisher_p": 0.164925,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 76,
+        "acc_others": 0.6974,
+        "fisher_p": 0.216311,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 13,
+        "accuracy": 0.8125,
+        "n_others": 74,
+        "acc_others": 0.6351,
+        "fisher_p": 0.245116,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 2,
+        "accuracy": 0.4,
+        "n_others": 85,
+        "acc_others": 0.6824,
+        "fisher_p": 0.328436,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 7,
+        "accuracy": 0.5833,
+        "n_others": 78,
+        "acc_others": 0.6795,
+        "fisher_p": 0.524864,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6552,
+        "fisher_p": 0.548008,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 8,
+        "accuracy": 0.6154,
+        "n_others": 77,
+        "acc_others": 0.6753,
+        "fisher_p": 0.753477,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 6,
+        "accuracy": 0.6667,
+        "n_others": 81,
+        "acc_others": 0.6667,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 87,
+        "acc_others": 0.6667,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 4,
+        "accuracy": 0.6667,
+        "n_others": 84,
+        "acc_others": 0.6667,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 86,
+        "acc_others": 0.6628,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 76,
+        "acc_others": 0.7368,
+        "fisher_p": 0.110716,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 11,
+        "accuracy": 0.8462,
+        "n_others": 77,
+        "acc_others": 0.6753,
+        "fisher_p": 0.329519,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6897,
+        "fisher_p": 0.551149,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 3,
+        "accuracy": 0.6,
+        "n_others": 85,
+        "acc_others": 0.7059,
+        "fisher_p": 0.634056,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 9,
+        "accuracy": 0.75,
+        "n_others": 78,
+        "acc_others": 0.6923,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 6,
+        "accuracy": 0.6667,
+        "n_others": 81,
+        "acc_others": 0.7037,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6941,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 11,
+        "accuracy": 0.6875,
+        "n_others": 74,
+        "acc_others": 0.7027,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 87,
+        "acc_others": 0.7011,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 4,
+        "accuracy": 0.6667,
+        "n_others": 84,
+        "acc_others": 0.7024,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 86,
+        "acc_others": 0.6977,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Utilities",
+        "n_sector": 3,
+        "n_correct": 3,
+        "accuracy": 1.0,
+        "n_others": 87,
+        "acc_others": 0.6092,
+        "fisher_p": 0.286891,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Discretionary",
+        "n_sector": 9,
+        "n_correct": 4,
+        "accuracy": 0.4444,
+        "n_others": 81,
+        "acc_others": 0.642,
+        "fisher_p": 0.289851,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Financials",
+        "n_sector": 13,
+        "n_correct": 10,
+        "accuracy": 0.7692,
+        "n_others": 77,
+        "acc_others": 0.5974,
+        "fisher_p": 0.355896,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 76,
+        "acc_others": 0.6447,
+        "fisher_p": 0.372714,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.6279,
+        "fisher_p": 0.631151,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Materials",
+        "n_sector": 5,
+        "n_correct": 4,
+        "accuracy": 0.8,
+        "n_others": 85,
+        "acc_others": 0.6118,
+        "fisher_p": 0.646162,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Staples",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 84,
+        "acc_others": 0.631,
+        "fisher_p": 0.669057,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Health Care",
+        "n_sector": 12,
+        "n_correct": 8,
+        "accuracy": 0.6667,
+        "n_others": 78,
+        "acc_others": 0.6154,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Real Estate",
+        "n_sector": 5,
+        "n_correct": 3,
+        "accuracy": 0.6,
+        "n_others": 85,
+        "acc_others": 0.6235,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 74,
+        "acc_others": 0.6216,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Energy",
+        "n_sector": 3,
+        "n_correct": 2,
+        "accuracy": 0.6667,
+        "n_others": 87,
+        "acc_others": 0.6207,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      }
+    ],
+    "return_magnitude": [
+      {
+        "return_bin": "0-0.5%",
+        "n_samples": 9,
+        "accuracy": 0.0,
+        "mean_abs_return": 0.0029577543668003223
+      },
+      {
+        "return_bin": "0.5-1%",
+        "n_samples": 12,
+        "accuracy": 0.5833333333333334,
+        "mean_abs_return": 0.007635588069289442
+      },
+      {
+        "return_bin": "1-2%",
+        "n_samples": 21,
+        "accuracy": 0.9047619047619048,
+        "mean_abs_return": 0.016002246453743568
+      },
+      {
+        "return_bin": "2-5%",
+        "n_samples": 31,
+        "accuracy": 0.7096774193548387,
+        "mean_abs_return": 0.034102847952847126
+      },
+      {
+        "return_bin": "5%+",
+        "n_samples": 26,
+        "accuracy": 0.5769230769230769,
+        "mean_abs_return": 0.08262980930872987
+      }
+    ],
+    "transcript_length": [
+      {
+        "length_group": "Short",
+        "n_samples": 30,
+        "accuracy": 0.6666666666666666,
+        "mean_word_count": 7353.8
+      },
+      {
+        "length_group": "Medium",
+        "n_samples": 30,
+        "accuracy": 0.7666666666666667,
+        "mean_word_count": 9127.7
+      },
+      {
+        "length_group": "Long",
+        "n_samples": 30,
+        "accuracy": 0.6666666666666666,
+        "mean_word_count": 10800.933333333332
+      }
+    ],
+    "most_confused": [
+      {
+        "symbol": "WMB",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "AMAT",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "MU",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "MAR",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "WMT",
+        "n_experiments": 20,
+        "n_correct": 1,
+        "error_rate": 0.95
+      },
+      {
+        "symbol": "TMUS",
+        "n_experiments": 20,
+        "n_correct": 1,
+        "error_rate": 0.95
+      },
+      {
+        "symbol": "NVDA",
+        "n_experiments": 20,
+        "n_correct": 1,
+        "error_rate": 0.95
+      },
+      {
+        "symbol": "ETN",
+        "n_experiments": 20,
+        "n_correct": 1,
+        "error_rate": 0.95
+      },
+      {
+        "symbol": "DE",
+        "n_experiments": 20,
+        "n_correct": 1,
+        "error_rate": 0.95
+      },
+      {
+        "symbol": "COST",
+        "n_experiments": 20,
+        "n_correct": 2,
+        "error_rate": 0.9
+      }
+    ]
+  },
+  "ternary": {
+    "per_sector": [
+      {
+        "experiment": "GPT-zero",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.4
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.5714285714285714
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5714285714285714
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.5384615384615384
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.3
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.25
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.5384615384615384
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.5625
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.35714285714285715
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.25
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.3
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.35714285714285715
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.6153846153846154
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.3
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.25
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.35714285714285715
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.5384615384615384
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.5625
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.35714285714285715
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.3
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.6428571428571429
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.46153846153846156
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.6875
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.6666666666666666
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.3
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.42857142857142855
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.2857142857142857
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.46153846153846156
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.4375
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.35714285714285715
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.1
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.14285714285714285
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.25
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.07142857142857142
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.07692307692307693
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.16666666666666666
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Communication Services",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.75
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Discretionary",
+        "n_samples": 10,
+        "n_valid": 10,
+        "accuracy": 0.4
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Staples",
+        "n_samples": 7,
+        "n_valid": 7,
+        "accuracy": 0.5714285714285714
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Energy",
+        "n_samples": 4,
+        "n_valid": 4,
+        "accuracy": 0.0
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Financials",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5714285714285714
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Health Care",
+        "n_samples": 13,
+        "n_valid": 13,
+        "accuracy": 0.5384615384615384
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Industrials",
+        "n_samples": 16,
+        "n_valid": 16,
+        "accuracy": 0.625
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Information Technology",
+        "n_samples": 14,
+        "n_valid": 14,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Materials",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.3333333333333333
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Real Estate",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Utilities",
+        "n_samples": 6,
+        "n_valid": 6,
+        "accuracy": 0.5
+      }
+    ],
+    "sector_fisher": [
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 96,
+        "acc_others": 0.3958,
+        "fisher_p": 0.294472,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 6,
+        "accuracy": 0.4615,
+        "n_others": 87,
+        "acc_others": 0.3678,
+        "fisher_p": 0.550728,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 4,
+        "accuracy": 0.2857,
+        "n_others": 86,
+        "acc_others": 0.3953,
+        "fisher_p": 0.558312,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 96,
+        "acc_others": 0.375,
+        "fisher_p": 0.633492,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.3723,
+        "fisher_p": 0.671017,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.3723,
+        "fisher_p": 0.671017,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 3,
+        "accuracy": 0.3,
+        "n_others": 90,
+        "acc_others": 0.3889,
+        "fisher_p": 0.737859,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 7,
+        "accuracy": 0.4375,
+        "n_others": 84,
+        "acc_others": 0.369,
+        "fisher_p": 0.779453,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 5,
+        "accuracy": 0.3571,
+        "n_others": 86,
+        "acc_others": 0.3837,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.383,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-contrastive",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 3,
+        "accuracy": 0.4286,
+        "n_others": 93,
+        "acc_others": 0.3763,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 96,
+        "acc_others": 0.5312,
+        "fisher_p": 0.054033,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 84,
+        "acc_others": 0.4881,
+        "fisher_p": 0.415722,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.5213,
+        "fisher_p": 0.4316,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 4,
+        "accuracy": 0.4,
+        "n_others": 90,
+        "acc_others": 0.5222,
+        "fisher_p": 0.520797,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 96,
+        "acc_others": 0.5,
+        "fisher_p": 0.617619,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 8,
+        "accuracy": 0.5714,
+        "n_others": 86,
+        "acc_others": 0.5,
+        "fisher_p": 0.77493,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.5116,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 7,
+        "accuracy": 0.5385,
+        "n_others": 87,
+        "acc_others": 0.5057,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.5106,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.5106,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-disagreement-ensemble",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 4,
+        "accuracy": 0.5714,
+        "n_others": 93,
+        "acc_others": 0.5054,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 9,
+        "accuracy": 0.5625,
+        "n_others": 84,
+        "acc_others": 0.4048,
+        "fisher_p": 0.278983,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 3,
+        "accuracy": 0.3,
+        "n_others": 90,
+        "acc_others": 0.4444,
+        "fisher_p": 0.508453,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 7,
+        "accuracy": 0.5385,
+        "n_others": 87,
+        "acc_others": 0.4138,
+        "fisher_p": 0.549623,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 1,
+        "accuracy": 0.25,
+        "n_others": 96,
+        "acc_others": 0.4375,
+        "fisher_p": 0.632465,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.4362,
+        "fisher_p": 0.697079,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 5,
+        "accuracy": 0.3571,
+        "n_others": 86,
+        "acc_others": 0.4419,
+        "fisher_p": 0.772017,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 5,
+        "accuracy": 0.3571,
+        "n_others": 86,
+        "acc_others": 0.4419,
+        "fisher_p": 0.772017,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.4255,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.4255,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 3,
+        "accuracy": 0.4286,
+        "n_others": 93,
+        "acc_others": 0.4301,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-feat-inject",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 96,
+        "acc_others": 0.4271,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 84,
+        "acc_others": 0.4286,
+        "fisher_p": 0.177765,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 94,
+        "acc_others": 0.4787,
+        "fisher_p": 0.213657,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 8,
+        "accuracy": 0.6154,
+        "n_others": 87,
+        "acc_others": 0.4368,
+        "fisher_p": 0.249665,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 3,
+        "accuracy": 0.3,
+        "n_others": 90,
+        "acc_others": 0.4778,
+        "fisher_p": 0.334969,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 4,
+        "accuracy": 0.6667,
+        "n_others": 94,
+        "acc_others": 0.4468,
+        "fisher_p": 0.409552,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 5,
+        "accuracy": 0.3571,
+        "n_others": 86,
+        "acc_others": 0.4767,
+        "fisher_p": 0.564914,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 1,
+        "accuracy": 0.25,
+        "n_others": 96,
+        "acc_others": 0.4688,
+        "fisher_p": 0.62229,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 6,
+        "accuracy": 0.4286,
+        "n_others": 86,
+        "acc_others": 0.4651,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.4574,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 96,
+        "acc_others": 0.4583,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-few-CoT",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 3,
+        "accuracy": 0.4286,
+        "n_others": 93,
+        "acc_others": 0.4624,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.0745,
+        "fisher_p": 0.012551,
+        "significant": true,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 1,
+        "accuracy": 0.25,
+        "n_others": 96,
+        "acc_others": 0.0938,
+        "fisher_p": 0.348369,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 86,
+        "acc_others": 0.1163,
+        "fisher_p": 0.349146,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 84,
+        "acc_others": 0.119,
+        "fisher_p": 0.357515,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 94,
+        "acc_others": 0.0957,
+        "fisher_p": 0.477695,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 94,
+        "acc_others": 0.0957,
+        "fisher_p": 0.477695,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 1,
+        "accuracy": 0.1429,
+        "n_others": 93,
+        "acc_others": 0.0968,
+        "fisher_p": 0.53326,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 1,
+        "accuracy": 0.0769,
+        "n_others": 87,
+        "acc_others": 0.1034,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 1,
+        "accuracy": 0.1,
+        "n_others": 90,
+        "acc_others": 0.1,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 1,
+        "accuracy": 0.0714,
+        "n_others": 86,
+        "acc_others": 0.1047,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-speaker-seg",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 96,
+        "acc_others": 0.1042,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 94,
+        "acc_others": 0.5319,
+        "fisher_p": 0.108422,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 11,
+        "accuracy": 0.6875,
+        "n_others": 84,
+        "acc_others": 0.4762,
+        "fisher_p": 0.172992,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 3,
+        "accuracy": 0.3,
+        "n_others": 90,
+        "acc_others": 0.5333,
+        "fisher_p": 0.195696,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 9,
+        "accuracy": 0.6429,
+        "n_others": 86,
+        "acc_others": 0.4884,
+        "fisher_p": 0.389607,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 4,
+        "accuracy": 0.6667,
+        "n_others": 94,
+        "acc_others": 0.5,
+        "fisher_p": 0.678135,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 3,
+        "accuracy": 0.4286,
+        "n_others": 93,
+        "acc_others": 0.5161,
+        "fisher_p": 0.712376,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 6,
+        "accuracy": 0.4615,
+        "n_others": 87,
+        "acc_others": 0.5172,
+        "fisher_p": 0.772313,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.5116,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.5106,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 96,
+        "acc_others": 0.5104,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-xgb-inject",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 2,
+        "accuracy": 0.5,
+        "n_others": 96,
+        "acc_others": 0.5104,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 0,
+        "accuracy": 0.0,
+        "n_others": 96,
+        "acc_others": 0.5312,
+        "fisher_p": 0.054033,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 10,
+        "accuracy": 0.625,
+        "n_others": 84,
+        "acc_others": 0.4881,
+        "fisher_p": 0.415722,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.5213,
+        "fisher_p": 0.4316,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 4,
+        "accuracy": 0.4,
+        "n_others": 90,
+        "acc_others": 0.5222,
+        "fisher_p": 0.520797,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 96,
+        "acc_others": 0.5,
+        "fisher_p": 0.617619,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 8,
+        "accuracy": 0.5714,
+        "n_others": 86,
+        "acc_others": 0.5,
+        "fisher_p": 0.77493,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.5116,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 7,
+        "accuracy": 0.5385,
+        "n_others": 87,
+        "acc_others": 0.5057,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.5106,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 3,
+        "accuracy": 0.5,
+        "n_others": 94,
+        "acc_others": 0.5106,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 4,
+        "accuracy": 0.5714,
+        "n_others": 93,
+        "acc_others": 0.5054,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Materials",
+        "n_sector": 6,
+        "n_correct": 1,
+        "accuracy": 0.1667,
+        "n_others": 94,
+        "acc_others": 0.4468,
+        "fisher_p": 0.232623,
+        "significant": false,
+        "holm_alpha": 0.004545,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Industrials",
+        "n_sector": 16,
+        "n_correct": 9,
+        "accuracy": 0.5625,
+        "n_others": 84,
+        "acc_others": 0.4048,
+        "fisher_p": 0.278983,
+        "significant": false,
+        "holm_alpha": 0.005,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Communication Services",
+        "n_sector": 4,
+        "n_correct": 3,
+        "accuracy": 0.75,
+        "n_others": 96,
+        "acc_others": 0.4167,
+        "fisher_p": 0.311601,
+        "significant": false,
+        "holm_alpha": 0.005556,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Discretionary",
+        "n_sector": 10,
+        "n_correct": 3,
+        "accuracy": 0.3,
+        "n_others": 90,
+        "acc_others": 0.4444,
+        "fisher_p": 0.508453,
+        "significant": false,
+        "holm_alpha": 0.00625,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Health Care",
+        "n_sector": 13,
+        "n_correct": 7,
+        "accuracy": 0.5385,
+        "n_others": 87,
+        "acc_others": 0.4138,
+        "fisher_p": 0.549623,
+        "significant": false,
+        "holm_alpha": 0.007143,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Financials",
+        "n_sector": 14,
+        "n_correct": 7,
+        "accuracy": 0.5,
+        "n_others": 86,
+        "acc_others": 0.4186,
+        "fisher_p": 0.576033,
+        "significant": false,
+        "holm_alpha": 0.008333,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Energy",
+        "n_sector": 4,
+        "n_correct": 1,
+        "accuracy": 0.25,
+        "n_others": 96,
+        "acc_others": 0.4375,
+        "fisher_p": 0.632465,
+        "significant": false,
+        "holm_alpha": 0.01,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Utilities",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.4362,
+        "fisher_p": 0.697079,
+        "significant": false,
+        "holm_alpha": 0.0125,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Real Estate",
+        "n_sector": 6,
+        "n_correct": 2,
+        "accuracy": 0.3333,
+        "n_others": 94,
+        "acc_others": 0.4362,
+        "fisher_p": 0.697079,
+        "significant": false,
+        "holm_alpha": 0.016667,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Information Technology",
+        "n_sector": 14,
+        "n_correct": 5,
+        "accuracy": 0.3571,
+        "n_others": 86,
+        "acc_others": 0.4419,
+        "fisher_p": 0.772017,
+        "significant": false,
+        "holm_alpha": 0.025,
+        "significant_corrected": false
+      },
+      {
+        "experiment": "GPT-zero-CoT",
+        "sector": "Consumer Staples",
+        "n_sector": 7,
+        "n_correct": 3,
+        "accuracy": 0.4286,
+        "n_others": 93,
+        "acc_others": 0.4301,
+        "fisher_p": 1.0,
+        "significant": false,
+        "holm_alpha": 0.05,
+        "significant_corrected": false
+      }
+    ],
+    "return_magnitude": [
+      {
+        "return_bin": "0-0.5%",
+        "n_samples": 9,
+        "accuracy": 0.1111111111111111,
+        "mean_abs_return": 0.0029577543668003223
+      },
+      {
+        "return_bin": "0.5-1%",
+        "n_samples": 12,
+        "accuracy": 0.4166666666666667,
+        "mean_abs_return": 0.007635588069289442
+      },
+      {
+        "return_bin": "1-2%",
+        "n_samples": 21,
+        "accuracy": 0.5714285714285714,
+        "mean_abs_return": 0.016002246453743568
+      },
+      {
+        "return_bin": "2-5%",
+        "n_samples": 31,
+        "accuracy": 0.5806451612903226,
+        "mean_abs_return": 0.034102847952847126
+      },
+      {
+        "return_bin": "5%+",
+        "n_samples": 26,
+        "accuracy": 0.5769230769230769,
+        "mean_abs_return": 0.08262980930872987
+      }
+    ],
+    "transcript_length": [
+      {
+        "length_group": "Short",
+        "n_samples": 34,
+        "accuracy": 0.4411764705882353,
+        "mean_word_count": 7426.764705882353
+      },
+      {
+        "length_group": "Medium",
+        "n_samples": 32,
+        "accuracy": 0.59375,
+        "mean_word_count": 9153.65625
+      },
+      {
+        "length_group": "Long",
+        "n_samples": 34,
+        "accuracy": 0.5,
+        "mean_word_count": 10720.441176470587
+      }
+    ],
+    "most_confused": [
+      {
+        "symbol": "AAPL",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "COST",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "GILD",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "KLAC",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "LIN",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "MAR",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "MO",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "NEM",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "NVDA",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      },
+      {
+        "symbol": "ORCL",
+        "n_experiments": 20,
+        "n_correct": 0,
+        "error_rate": 1.0
+      }
+    ]
+  }
+}

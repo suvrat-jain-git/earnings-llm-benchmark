@@ -1,0 +1,8 @@
+{
+  "total_calls": 1000,
+  "total_input_tokens": 7157105,
+  "total_output_tokens": 334954,
+  "estimated_input_cost_usd": 17.8928,
+  "estimated_output_cost_usd": 3.3495,
+  "estimated_total_cost_usd": 21.2423
+}

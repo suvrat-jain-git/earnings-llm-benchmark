@@ -1,0 +1,89 @@
+experiment,sector,n_sector,n_correct,accuracy,n_others,acc_others,fisher_p,significant,holm_alpha,significant_corrected
+GPT-contrastive,Information Technology,14,6,0.4286,76,0.6842,0.077127,False,0.004545,False
+GPT-contrastive,Real Estate,5,5,1.0,85,0.6235,0.156298,False,0.005,False
+GPT-contrastive,Consumer Discretionary,9,4,0.4444,81,0.6667,0.271273,False,0.005556,False
+GPT-contrastive,Financials,13,10,0.7692,77,0.6234,0.366309,False,0.00625,False
+GPT-contrastive,Utilities,3,3,1.0,87,0.6322,0.549745,False,0.007143,False
+GPT-contrastive,Materials,5,4,0.8,85,0.6353,0.651767,False,0.008333,False
+GPT-contrastive,Consumer Staples,6,3,0.5,84,0.6548,0.662009,False,0.01,False
+GPT-contrastive,Health Care,12,8,0.6667,78,0.641,1.0,False,0.0125,False
+GPT-contrastive,Industrials,16,10,0.625,74,0.6486,1.0,False,0.016667,False
+GPT-contrastive,Energy,3,2,0.6667,87,0.6437,1.0,False,0.025,False
+GPT-contrastive,Communication Services,4,3,0.75,86,0.6395,1.0,False,0.05,False
+GPT-disagreement-ensemble,Information Technology,14,7,0.5,76,0.7368,0.110716,False,0.004545,False
+GPT-disagreement-ensemble,Financials,13,11,0.8462,77,0.6753,0.329519,False,0.005,False
+GPT-disagreement-ensemble,Utilities,3,3,1.0,87,0.6897,0.551149,False,0.005556,False
+GPT-disagreement-ensemble,Materials,5,3,0.6,85,0.7059,0.634056,False,0.00625,False
+GPT-disagreement-ensemble,Health Care,12,9,0.75,78,0.6923,1.0,False,0.007143,False
+GPT-disagreement-ensemble,Consumer Discretionary,9,6,0.6667,81,0.7037,1.0,False,0.008333,False
+GPT-disagreement-ensemble,Real Estate,5,4,0.8,85,0.6941,1.0,False,0.01,False
+GPT-disagreement-ensemble,Industrials,16,11,0.6875,74,0.7027,1.0,False,0.0125,False
+GPT-disagreement-ensemble,Energy,3,2,0.6667,87,0.7011,1.0,False,0.016667,False
+GPT-disagreement-ensemble,Consumer Staples,6,4,0.6667,84,0.7024,1.0,False,0.025,False
+GPT-disagreement-ensemble,Communication Services,4,3,0.75,86,0.6977,1.0,False,0.05,False
+GPT-feat-inject,Information Technology,14,7,0.5,75,0.7333,0.112959,False,0.004545,False
+GPT-feat-inject,Real Estate,5,5,1.0,84,0.6786,0.317315,False,0.005,False
+GPT-feat-inject,Health Care,12,10,0.8333,77,0.6753,0.332797,False,0.005556,False
+GPT-feat-inject,Consumer Staples,6,3,0.5,83,0.7108,0.362388,False,0.00625,False
+GPT-feat-inject,Utilities,3,3,1.0,86,0.686,0.550412,False,0.007143,False
+GPT-feat-inject,Industrials,16,10,0.625,73,0.7123,0.552739,False,0.008333,False
+GPT-feat-inject,Consumer Discretionary,8,5,0.625,81,0.7037,0.694478,False,0.01,False
+GPT-feat-inject,Financials,13,10,0.7692,76,0.6842,0.74678,False,0.0125,False
+GPT-feat-inject,Energy,3,2,0.6667,86,0.6977,1.0,False,0.016667,False
+GPT-feat-inject,Materials,5,4,0.8,84,0.6905,1.0,False,0.025,False
+GPT-feat-inject,Communication Services,4,3,0.75,85,0.6941,1.0,False,0.05,False
+GPT-few-CoT,Consumer Discretionary,9,4,0.4444,81,0.6914,0.153715,False,0.004545,False
+GPT-few-CoT,Financials,13,11,0.8462,77,0.6364,0.205804,False,0.005,False
+GPT-few-CoT,Energy,3,1,0.3333,87,0.6782,0.256725,False,0.005556,False
+GPT-few-CoT,Consumer Staples,6,3,0.5,84,0.6786,0.396149,False,0.00625,False
+GPT-few-CoT,Information Technology,14,8,0.5714,76,0.6842,0.53833,False,0.007143,False
+GPT-few-CoT,Utilities,3,3,1.0,87,0.6552,0.548008,False,0.008333,False
+GPT-few-CoT,Communication Services,4,2,0.5,86,0.6744,0.598229,False,0.01,False
+GPT-few-CoT,Real Estate,5,4,0.8,85,0.6588,0.661298,False,0.0125,False
+GPT-few-CoT,Materials,5,4,0.8,85,0.6588,0.661298,False,0.016667,False
+GPT-few-CoT,Health Care,12,9,0.75,78,0.6538,0.743996,False,0.025,False
+GPT-few-CoT,Industrials,16,11,0.6875,74,0.6622,1.0,False,0.05,False
+GPT-speaker-seg,Communication Services,4,4,1.0,86,0.407,0.03219,True,0.004545,False
+GPT-speaker-seg,Materials,5,4,0.8,85,0.4118,0.161996,False,0.005,False
+GPT-speaker-seg,Consumer Staples,6,1,0.1667,84,0.4524,0.22847,False,0.005556,False
+GPT-speaker-seg,Energy,3,0,0.0,87,0.4483,0.255056,False,0.00625,False
+GPT-speaker-seg,Industrials,16,5,0.3125,74,0.4595,0.405319,False,0.007143,False
+GPT-speaker-seg,Consumer Discretionary,9,5,0.5556,81,0.4198,0.493381,False,0.008333,False
+GPT-speaker-seg,Health Care,12,4,0.3333,78,0.4487,0.542105,False,0.01,False
+GPT-speaker-seg,Information Technology,14,7,0.5,76,0.4211,0.770151,False,0.0125,False
+GPT-speaker-seg,Real Estate,5,2,0.4,85,0.4353,1.0,False,0.016667,False
+GPT-speaker-seg,Financials,13,6,0.4615,77,0.4286,1.0,False,0.025,False
+GPT-speaker-seg,Utilities,3,1,0.3333,87,0.4368,1.0,False,0.05,False
+GPT-xgb-inject,Real Estate,5,5,1.0,85,0.6471,0.164925,False,0.004545,False
+GPT-xgb-inject,Information Technology,14,7,0.5,76,0.6974,0.216311,False,0.005,False
+GPT-xgb-inject,Industrials,16,13,0.8125,74,0.6351,0.245116,False,0.005556,False
+GPT-xgb-inject,Materials,5,2,0.4,85,0.6824,0.328436,False,0.00625,False
+GPT-xgb-inject,Health Care,12,7,0.5833,78,0.6795,0.524864,False,0.007143,False
+GPT-xgb-inject,Utilities,3,3,1.0,87,0.6552,0.548008,False,0.008333,False
+GPT-xgb-inject,Financials,13,8,0.6154,77,0.6753,0.753477,False,0.01,False
+GPT-xgb-inject,Consumer Discretionary,9,6,0.6667,81,0.6667,1.0,False,0.0125,False
+GPT-xgb-inject,Energy,3,2,0.6667,87,0.6667,1.0,False,0.016667,False
+GPT-xgb-inject,Consumer Staples,6,4,0.6667,84,0.6667,1.0,False,0.025,False
+GPT-xgb-inject,Communication Services,4,3,0.75,86,0.6628,1.0,False,0.05,False
+GPT-zero,Information Technology,14,7,0.5,76,0.7368,0.110716,False,0.004545,False
+GPT-zero,Financials,13,11,0.8462,77,0.6753,0.329519,False,0.005,False
+GPT-zero,Utilities,3,3,1.0,87,0.6897,0.551149,False,0.005556,False
+GPT-zero,Materials,5,3,0.6,85,0.7059,0.634056,False,0.00625,False
+GPT-zero,Health Care,12,9,0.75,78,0.6923,1.0,False,0.007143,False
+GPT-zero,Consumer Discretionary,9,6,0.6667,81,0.7037,1.0,False,0.008333,False
+GPT-zero,Real Estate,5,4,0.8,85,0.6941,1.0,False,0.01,False
+GPT-zero,Industrials,16,11,0.6875,74,0.7027,1.0,False,0.0125,False
+GPT-zero,Energy,3,2,0.6667,87,0.7011,1.0,False,0.016667,False
+GPT-zero,Consumer Staples,6,4,0.6667,84,0.7024,1.0,False,0.025,False
+GPT-zero,Communication Services,4,3,0.75,86,0.6977,1.0,False,0.05,False
+GPT-zero-CoT,Utilities,3,3,1.0,87,0.6092,0.286891,False,0.004545,False
+GPT-zero-CoT,Consumer Discretionary,9,4,0.4444,81,0.642,0.289851,False,0.005,False
+GPT-zero-CoT,Financials,13,10,0.7692,77,0.5974,0.355896,False,0.005556,False
+GPT-zero-CoT,Information Technology,14,7,0.5,76,0.6447,0.372714,False,0.00625,False
+GPT-zero-CoT,Communication Services,4,2,0.5,86,0.6279,0.631151,False,0.007143,False
+GPT-zero-CoT,Materials,5,4,0.8,85,0.6118,0.646162,False,0.008333,False
+GPT-zero-CoT,Consumer Staples,6,3,0.5,84,0.631,0.669057,False,0.01,False
+GPT-zero-CoT,Health Care,12,8,0.6667,78,0.6154,1.0,False,0.0125,False
+GPT-zero-CoT,Real Estate,5,3,0.6,85,0.6235,1.0,False,0.016667,False
+GPT-zero-CoT,Industrials,16,10,0.625,74,0.6216,1.0,False,0.025,False
+GPT-zero-CoT,Energy,3,2,0.6667,87,0.6207,1.0,False,0.05,False
