@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+env.env
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (scoped to data/ so root-level reference files like
+# L_McD_Dict_Words.csv are not accidentally ignored)
+data/raw_transcripts/
+data/prices/
+data/features/
+data/labels/
+data/**/*.csv
+data/**/*.parquet
+data/**/*.pkl
+data/**/*.h5
+data/**/*.hdf5
+data/**/*.feather
+data/**/*.json
+data/**/*.xlsx
+data/**/*.xls
+
+# Models
+data/models/
+
+# Results & figures
+data/results/
+figures/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.bbl
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
